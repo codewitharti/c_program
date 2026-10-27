@@ -9,7 +9,7 @@ int main()
  printf("   ----------------------------\n");
  if(e<=100)
 {
-//git learning
+
  printf("    units : %d\n",e);
  printf("    Category : Low  Uses\n");
  }
