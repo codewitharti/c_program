@@ -5,6 +5,7 @@ int r;
 float x;
 printf("enter the radious of circle");
 scanf("%d",&r);
+\\formula to calculate area of circle
 x=3.14*r*r;
 printf("the are of given circle is %f",x);
 getchar();
